@@ -183,3 +183,31 @@ a:hover, a:focus, a:active {
   -o-background-size: cover;
   background-size: cover;
 }
+.card-body {
+}
+.card-body {
+}
+.card-body {
+    flex: 1 1 auto;
+    padding: 1.5rem;
+    color: #8492a6;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid #eff2f7;
+    border-radius: 1rem;
+}
